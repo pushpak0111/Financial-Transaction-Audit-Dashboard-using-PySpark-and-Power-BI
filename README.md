@@ -29,7 +29,7 @@ This project uses a large dataset from [PaySim Simulation Data] (https://www.kag
 ## 📥 Download the Dashboard (.pbix)
 
 The Power BI file is too large to upload to GitHub.  
-You can download it here: [Click to Download Dashboard](https://drive.google.com/drive/u/0/folders/1hkMPG0IUVRoZH3YKDGJWBDHCYNK5iWkf)
+You can download it here: [Click to Download Dashboard](https://drive.google.com/file/d/1BSxAMQ4LjoLeTP4hUhYWIP4Awrt85Gxc/view?usp=sharing)
 
 ## 📷 Preview
 ![Audit Analysis Dashboard_page-0001](https://github.com/user-attachments/assets/106c3cf5-b742-44bb-8dab-e036282d2b3b)
