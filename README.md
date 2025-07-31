@@ -21,9 +21,15 @@ This project visualizes a synthetic financial transactions dataset (PaySim) to d
 
 ## 📁 Files Included
 - `fraud_dashboard.pbix` – Power BI Dashboard
-- `fraud_analysis.ipynb` – Preprocessing with PySpark
-- `transactions.csv` – Sample dataset (filtered)
 - `dashboard_preview.png` – Visual snapshot
+
+## 📂 Dataset Source
+This project uses a large dataset from [PaySim Simulation Data] (https://www.kaggle.com/datasets/ealaxi/paysim1)
+
+## 📥 Download the Dashboard (.pbix)
+
+The Power BI file is too large to upload to GitHub.  
+You can download it here: [Click to Download Dashboard](https://drive.google.com/drive/u/0/folders/1hkMPG0IUVRoZH3YKDGJWBDHCYNK5iWkf)
 
 ## 📷 Preview
 ![Audit Analysis Dashboard_page-0001](https://github.com/user-attachments/assets/106c3cf5-b742-44bb-8dab-e036282d2b3b)
